@@ -20,7 +20,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/bn"
-        android:inputType="number"/>
+        android:inputType="number"
+        android:hint="Enter the Number"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
